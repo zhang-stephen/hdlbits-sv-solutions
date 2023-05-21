@@ -2,6 +2,6 @@
 /.vscode
 
 # Verilog/SystemVerilog LSP work directories
-/hdl_checker
+/_hdl_checker
 
 # EOF

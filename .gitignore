@@ -1,0 +1,7 @@
+# vscode configuration
+/.vscode
+
+# Verilog/SystemVerilog LSP work directories
+/hdl_checker
+
+# EOF

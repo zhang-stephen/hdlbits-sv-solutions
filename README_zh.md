@@ -18,7 +18,7 @@
 
 ### 题解文件规范
 
-以SystemVerilog为例，所有HDL源码文件均遵循以下格式：
+以SystemVerilog为例，所有HDL源码文件均遵循以下格式（见[template.sv](./template.sv)）：
 
 ```verilog
 // Date: YYYY-MM-DD

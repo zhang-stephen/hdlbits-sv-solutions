@@ -18,14 +18,14 @@ Why SystemVerilog?
 
 ### Solution Standard
 
-All source files of HDL(e.g. SystemVerilog) would follow this style:
+All source files of HDL(e.g. SystemVerilog) would follow this style(in [template.sv](./template.sv)):
 
 ```verilog
 // Date: YYYY-MM-DD
 // Author: Stephen Zhang
 // URL: the url to the question
 
-/**
+/** Question:
  * <descrpition of question>
  */
 

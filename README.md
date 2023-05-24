@@ -1,4 +1,4 @@
-# Solutions to Exercise of Verilog/SystemVerilog from [HDLBits](https://hdlbits.01xz.net/wiki/Main_Page)
+# SystemVerilog Solutions to Exercise from [HDLBits](https://hdlbits.01xz.net/wiki/Main_Page)
 
 English | [中文](./README_zh.md)
 

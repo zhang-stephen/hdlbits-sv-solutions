@@ -1,4 +1,4 @@
-# [HDLBits](https://hdlbits.01xz.net/wiki/Main_Page) Verilog/SystemVerilog 题解
+# [HDLBits](https://hdlbits.01xz.net/wiki/Main_Page) SystemVerilog 题解
 
 ### Preface
 
@@ -25,7 +25,7 @@
 // Author: Stephen Zhang
 // URL: the url to the question
 
-/**
+/** Question:
  * <descrpition of question>
  */
 
@@ -42,7 +42,7 @@ endmodule
 // EOF
 ```
 
-而且英语将被用作文档或注释的主力语言。
+而且英语将在题解文件中被用作文档或注释的主力语言。
 
 ### 参考资料
 

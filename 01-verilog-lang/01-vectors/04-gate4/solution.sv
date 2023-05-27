@@ -19,9 +19,9 @@ module top_module
 );
 
     always_comb begin
-        out_and <= & in;
-        out_or <= | in;
-        out_xor <= ^ in;
+        out_and <= &in;
+        out_or <= |in;
+        out_xor <= ^in;
     end
 
 endmodule

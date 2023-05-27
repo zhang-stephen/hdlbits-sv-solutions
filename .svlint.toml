@@ -1,0 +1,46 @@
+[option]
+exclude_paths = ['ip/.*']
+
+[rules]
+# language feature rules
+action_block_with_side_effect = true
+blocking_assignment_in_always_ff = true
+blocking_assignment_in_always_latch = true
+case_default = true
+enum_with_type = true
+eventlist_comma_always_ff = true
+explicit_case_default = true
+explicit_if_else = false
+function_same_as_system_function = true
+function_with_automatic = true
+inout_with_tri = true
+keyword_forbidden_always = true
+keyword_forbidden_wire_reg = true
+level_sensitive_always = true
+localparam_explicit_type = true
+loop_statement_in_always_comb = true
+loop_statement_in_always_ff = true
+loop_statement_in_always_latch = true
+loop_variable_declaration = true
+multiline_for_begin = true
+multiline_if_begin = true
+non_ansi_module = true
+parameter_explicit_type = true
+parameter_in_package = true
+sequential_block_in_always_comb = false
+
+# naming rules
+lowercamelcase_interface = true
+lowercamelcase_module = true
+lowercamelcase_package = true
+
+# style/whitespace rules
+style_commaleading = false
+# style_indent = true
+style_keyword_0or1space = true
+style_operator_arithmetic = true
+style_operator_boolean = true
+style_operator_integer = true
+style_operator_unary = true
+style_trailingwhitespace = true
+tab_character = true
